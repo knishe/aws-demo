@@ -2,7 +2,7 @@
 Prof of concept to work with DynamoDB with AWS local stack 
 
 
-copy https://github.com/localstack/localstack/blob/master/docker-compose.yml  to you project root 
+copy https://github.com/localstack/localstack/blob/master/docker-compose.yml  to your project root 
 
 navigate to the docker compose and run the following
 
